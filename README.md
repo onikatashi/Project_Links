@@ -1,33 +1,21 @@
-# RandomTowerDefense
+# 개인 프로젝트 깃허브 링크
+
+# [RandomTowerDefense](https://github.com/onikatashi/RandomTowerDefense)
 > Unity 2D 기반 랜덤 타워 디펜스 게임
 > 스타크래프트 유즈맵을 모방하여 만든 1인 개발 게임
 <img width="1573" height="882" alt="image" src="https://github.com/user-attachments/assets/ce9c810f-ccaa-46ae-8a85-48fbd04c351d" />
 
 ---
 
-## 게임 소개
-
-랜덤하게 소환되는 타워를 배치하고, 같은 타워끼리 합성해 더 강한 타워를 만들며 몬스터 웨이브를 막는 **랜덤 합성형 타워 디펜스 게임**입니다.
-
-어떤 타워가 나올지 모르는 **운빨 요소**와 타워 합성 타이밍을 결정하는 **전략 요소**가 결합된 것이 핵심 재미입니다.
-
----
-
-## 개발 환경
-- Unity 6.0 LTS
-- C#
+# [피카츄 배구 (Pikachu Volleyball)](https://github.com/onikatashi/Pikachu_Volleyball)
+> Unity Netcode 기반 1:1 온라인 배구 게임
+> 피카츄 배구 유즈맵을 모방하여 만든 1인 개발 게임
+<img width="1532" height="864" alt="image" src="https://github.com/user-attachments/assets/2471282d-caff-40fe-8f00-0eef4db32059" />
 
 ---
 
-### 핵심 컨텐츠
+# 팀 프로젝트 깃허브 링크
 
-- **랜덤 타워 건설** : 일반 등급 타워 중 랜덤 소환 및 배치
-- **타워 합성** : 동일 등급 + 동일 타입 타워 2개 합성 시 상위 등급 타워로 진화
-- **타워 업그레이드** : 골드를 소모해 타워 타입별 공격력/속도/사거리 강화
-- **웨이브 시스템** : 일반 웨이브 + 10웨이브마다 보스 + 미션 몬스터 소환
-- **방어 타입 시스템** : 공격 타입(일반/폭발/진동) × 방어 타입(소형/중형/대형) 데미지 배율 계산
-
----
-
-## 인게임 이미지
-<img width="1568" height="879" alt="image" src="https://github.com/user-attachments/assets/cea0dd43-1a65-4d69-9b67-f9395e89ba95" />
+# [Don't Call Me](https://github.com/AIGO-Musiwa/Dont-Call-Me)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7bdd4b7c-9d79-4a2a-85b4-a84914941ce2" />
+> 무전을 통해 퍼즐을 풀고 탈출하는 4인 협동 공포 게임
